@@ -1,0 +1,13 @@
+.row1{
+    font-size: 30px;
+    text-align: center;
+}
+.row2{
+    background-color: green;
+    height: 50px;
+    color: white;
+}
+.row3{
+    height: 400px;
+    background-color: blue;
+}
